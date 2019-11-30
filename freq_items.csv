@@ -1,0 +1,28 @@
+,support,itemsets
+0,0.1715309779825909,frozenset({'Alfajorcitos .'})
+1,0.19252432155657961,frozenset({'Conitos de Dulce de Leche'})
+2,0.2939068100358423,frozenset({'Empanaditas Surtidas'})
+3,0.36200716845878134,frozenset({'Hamburguesitas de Carne'})
+4,0.2636968766001024,frozenset({'Miga de Jamón y Queso'})
+5,0.18791602662570406,frozenset({'Panchitos .'})
+6,0.39477726574500765,frozenset({'Pizzetas Clasicas'})
+7,0.1971326164874552,frozenset({'Pizzetas Surtidas'})
+8,0.3143881208397337,frozenset({'Sandwich de Jamón y Queso'})
+9,0.3466461853558628,frozenset({'Sandwich de Peceto'})
+10,0.23707117255504354,frozenset({'Sandwich de Pollo'})
+11,0.18433179723502305,"frozenset({'Empanaditas Surtidas', 'Hamburguesitas de Carne'})"
+12,0.15360983102918588,"frozenset({'Miga de Jamón y Queso', 'Empanaditas Surtidas'})"
+13,0.2201740911418331,"frozenset({'Empanaditas Surtidas', 'Pizzetas Clasicas'})"
+14,0.15565796210957503,"frozenset({'Empanaditas Surtidas', 'Sandwich de Jamón y Queso'})"
+15,0.18381976446492576,"frozenset({'Empanaditas Surtidas', 'Sandwich de Peceto'})"
+16,0.159242191500256,"frozenset({'Miga de Jamón y Queso', 'Hamburguesitas de Carne'})"
+17,0.2524321556579621,"frozenset({'Pizzetas Clasicas', 'Hamburguesitas de Carne'})"
+18,0.20020481310803892,"frozenset({'Sandwich de Jamón y Queso', 'Hamburguesitas de Carne'})"
+19,0.2119815668202765,"frozenset({'Sandwich de Peceto', 'Hamburguesitas de Carne'})"
+20,0.2012288786482335,"frozenset({'Miga de Jamón y Queso', 'Pizzetas Clasicas'})"
+21,0.22785458269329237,"frozenset({'Pizzetas Clasicas', 'Sandwich de Jamón y Queso'})"
+22,0.22939068100358423,"frozenset({'Sandwich de Peceto', 'Pizzetas Clasicas'})"
+23,0.20583717357910905,"frozenset({'Sandwich de Peceto', 'Sandwich de Jamón y Queso'})"
+24,0.15719406041986686,"frozenset({'Sandwich de Peceto', 'Sandwich de Pollo'})"
+25,0.16180235535074244,"frozenset({'Sandwich de Jamón y Queso', 'Pizzetas Clasicas', 'Hamburguesitas de Carne'})"
+26,0.15207373271889402,"frozenset({'Sandwich de Peceto', 'Pizzetas Clasicas', 'Sandwich de Jamón y Queso'})"
